@@ -20,19 +20,19 @@ A complete exploratory data analysis (EDA) and outlier‑handling workflow for B
 
 Attribute                      Description
 
-location                       Locality of the property
+location                       - Locality of the property
 
-size                           Number of bedrooms (BHK)
+size                           -  Number of bedrooms (BHK)
 
-total_sqft                     Built‑up area (sq ft)
+total_sqft                     -  Built‑up area (sq ft)
 
-bath                           No. of bathrooms
+bath                           -  No. of bathrooms
 
-price                          Listing price (₹ lakh)
+price                          -  Listing price (₹ lakh)
 
-bhk                            Extracted integer bedrooms
+bhk                            -  Extracted integer bedrooms
 
-price_per_sqft                 Calculated price per sq ft (₹)
+price_per_sqft                 -  Calculated price per sq ft (₹)
 
 Source : house_price.csv — Kaggle/Udemy Bangalore Housing dataset.
 
